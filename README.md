@@ -2,6 +2,11 @@
 
 ![Deskripsi Singkat Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ0ZHRmaTZxZ3VxbXVweDVzb21zOHl1NDY2eDl6bjV1M2xnazUybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58rhXcVXbbK9NyT7ns/giphy.gif)
 
+## About Me
+
+- Just a person who writes code, breaks it, Googles the error, and learns something new.
+- **Software Engineering** undergraduate at [Binus University](https://binus.ac.id/program/computer-science-software-engineering/)
+
 <!--
 **SyauqiFaris/SyauqiFaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
