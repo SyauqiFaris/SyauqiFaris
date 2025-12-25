@@ -1,4 +1,5 @@
-# Wassap My Guy
+# Elliot Alderson Wannabe
+
 ![Deskripsi Singkat Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ0ZHRmaTZxZ3VxbXVweDVzb21zOHl1NDY2eDl6bjV1M2xnazUybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58rhXcVXbbK9NyT7ns/giphy.gif)
 
 <!--
