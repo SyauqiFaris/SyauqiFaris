@@ -8,6 +8,11 @@
 - **Software Engineering** undergraduate at [Binus University](https://binus.ac.id/program/computer-science-software-engineering/)
 - Passionate about Artificial Intelligence, Web Development, and Cryptocurrency
 - Mancunian🔴⚽
+  <a href="https://www.linkedin.com/in/syauqi-faris-imtiyaz/" target="_blank" rel="noopener noreferrer">
+  Live Demo
+  </a>
+
+# Social Media
 
 <!--
 **SyauqiFaris/SyauqiFaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
