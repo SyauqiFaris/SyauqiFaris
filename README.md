@@ -13,7 +13,6 @@
 
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syauqi-faris-imtiyaz/)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/syauqiifaaris/)
-- [![letterboxd](https://brandfetch.com/letterboxd.com?view=library&library=default&collection=logos&asset=idJaqogIzu&utm_source=https%253A%252F%252Fbrandfetch.com%252Fletterboxd.com&utm_medium=copyAction&utm_campaign=brandPageReferral)]
 
 <!--
 **SyauqiFaris/SyauqiFaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
