@@ -7,7 +7,7 @@
 - Just a person who writes code, breaks it, Googles the error, and learns something new.
 - **Software Engineering** undergraduate at [Binus University](https://binus.ac.id/program/computer-science-software-engineering/)
 - Passionate about Artificial Intelligence, Web Development, and Cryptocurrency
-- Mancunian🔴⚽
+- Mancunian 🔴⚽
 
 # Social Media
 
