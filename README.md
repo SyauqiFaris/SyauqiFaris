@@ -13,7 +13,6 @@
 
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syauqi-faris-imtiyaz/)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/syauqiifaaris/)
-- [![Letterboxd](https://camo.githubusercontent.com/23305a8eee250c3c9ef7a69db257c9e9e2837be8e44823e88a8eb77a8dcda6b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f737563636573732d737563636573732e737667)](https://letterboxd.com/JakunBelalang/)
 
 <!--
 **SyauqiFaris/SyauqiFaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
