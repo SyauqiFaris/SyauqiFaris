@@ -11,7 +11,7 @@
 
 # Social Media
 
-- ![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/syauqi-faris-imtiyaz/)
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syauqi-faris-imtiyaz/)
 - !
 - !
 
